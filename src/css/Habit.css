@@ -1,0 +1,28 @@
+.habitLabel
+{
+    float: left;
+    width: 154px;
+}
+
+
+.habitRow
+{
+    float: left;
+    width: 96%;
+    margin-left: 20px;
+}
+
+.cell
+{
+    float: left;
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+
+}
+
+.head
+{
+    width: 62px;
+}
+
